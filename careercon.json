@@ -1,0 +1,8 @@
+{
+  "commands": [{
+    "name": "gdansk",
+    "alias": "gd",
+    "description": "Shows information about Gdansk",
+    "action": "cli/gdansk.js"
+  }]
+}
